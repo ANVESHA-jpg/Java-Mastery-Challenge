@@ -20,7 +20,6 @@ class Result {
      */
 
     public static int factorial(int n) {
-    // Write your code here
 
     }
 
@@ -42,3 +41,4 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+// Day 9 : Hackerank recursion
